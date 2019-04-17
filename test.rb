@@ -1,4 +1,4 @@
-dog = "thirsty"
+dog = ""
 
 if dog == "hungry"
   puts "refill food"
