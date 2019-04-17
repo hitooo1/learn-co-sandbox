@@ -1,9 +1,9 @@
 dog = "thirsty"
-
+ 
 if dog == "hungry"
-  puts "refill food"
-elseif dog == "thirsty"
-  puts "refill water"
-else 
-  puts "reading newspaper"
+  puts "Refilling food bowl."
+elsif dog == "thirsty"
+  puts "Refilling water bowl."
+else
+  puts "Reading newspaper."
 end
