@@ -1,7 +1,9 @@
-def flunk
-  [1,2,3,4,5].select{|i| i.odd?}
-  puts i
+dog = "thirsty"
+
+if dog == "hungry"
+  puts "refill food"
+elseif dog == "thirsty"
+  puts "refill water"
+else 
+  puts "reading newspaper"
 end
-
-
-return flunk
