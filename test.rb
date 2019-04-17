@@ -7,4 +7,3 @@ elseif dog == "thirsty"
 else 
   puts "reading newspaper"
 end
-end
